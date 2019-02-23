@@ -1,0 +1,101 @@
+.tops{
+  width: 100%;
+  display: inline;
+  text-align:left;
+  margin:2px;
+}
+.sselect{
+   /*  margin-top: 30px;*/
+ /*  margin-left:230px;*/
+   width:130px;
+   /*  height:9px;*/
+   float:left;
+   text-align: center;
+ }
+
+.fselect{
+  width:130px;
+  float:left;
+  text-align: center;
+}
+
+.scheck{
+/*  width:230px;*/
+  float:left;
+}
+
+.spicker{
+  float:left;
+  width:400px;
+}
+.ssearch{
+  margin-left:10px;
+  float:left;
+  width: 200px;
+}
+.newbtn{
+  margin-top: -45px;
+  float:left;
+  margin-left: 90%;
+}
+
+.ttable{
+  margin-top: 40px;
+/*  padding-top: 20px;*/
+  margin-left: 30px;
+  width: 90%;
+}
+
+.dvtable{
+  margin-top: 40px;
+}
+
+.sidebbs{
+/*  margin-left: 230px;*/
+  padding-top: 60px;
+  background: #f1faf8;
+}
+
+.xsselect{
+  /*  margin-top: 30px;*/
+/*  margin-left:230px;*/
+  width:200px;
+  /*  height:9px;*/
+  float:left;
+  text-align: center;
+}
+
+.xfselect{
+  width:200px;
+  float:left;
+  text-align: center;
+}
+
+.xstore{
+  font-size: 14px;
+  font-weight: bold;
+  color: #838383;
+}
+
+.mybox{
+  width: 100%;
+  display: inline;
+  text-align:left;
+ /* margin-left:230px;*/
+  padding-left: 230px;
+}
+.box-card{
+  margin-left: 30px;
+  width: 19%;
+  float:left;
+  text-align: center;
+  background-color: #1d86ce;
+  color:#ffffff;
+}
+.box-card1{
+  width: 19%;
+  margin-left: 20px;
+  float:left;
+  text-align: center;
+  color:#ffffff;
+}

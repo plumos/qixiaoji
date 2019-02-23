@@ -1,0 +1,44 @@
+
+.warn{
+  font-size: 18px;
+  color: #32c8bd;
+  padding-left: 30px;
+}
+
+
+.btm{
+  height:80px;
+  width: 80%;
+  position:fixed;
+  margin-left: -20px;
+  bottom:0;
+  z-index:99999;
+  background-color: #f1faf8;
+}
+
+.ads{
+  margin-top: 30px;
+  /*margin-left: 20px;*/
+  padding-bottom: 100px;
+  background-color: white;
+  height: auto;
+}
+
+.newbtn{
+  margin-top: -45px;
+  float:left;
+  margin-left: 90%;
+}
+
+.stable{
+  margin-top: 40px;
+/*  margin-left: 260px;*/
+  width: 80%;
+}
+
+.ttable{
+  margin-top: 40px;
+  /*  padding-top: 20px;*/
+  margin-left: 50px;
+  width: 80%;
+}

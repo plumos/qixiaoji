@@ -1,0 +1,51 @@
+.tops{
+  width: 100%;
+  display: inline;
+  text-align:left;
+  margin:2px;
+}
+.sselect{
+/*  margin-top: 30px;*/
+/*  margin-left:230px;*/
+  width:130px;
+/*  height:9px;*/
+  float:left;
+  text-align: center;
+}
+.fselect{
+  width:130px;
+  float:left;
+  text-align: center;
+}
+
+.spicker{
+  float:left;
+  width:400px;
+}
+.ssearch{
+  margin-left:10px;
+  float:left;
+  width: 200px;
+}
+.newbtn{
+  margin-top: -45px;
+  float:left;
+  margin-left: 90%;
+}
+
+.ttable{
+  margin-top: 40px;
+/*  padding-top: 20px;*/
+  margin-left: 30px;
+  width: 95%;
+}
+
+.dvtable{
+  margin-top: 40px;
+}
+
+.sidebbs{
+  margin-left: 230px;
+  padding-top: 60px;
+  background: #f1faf8;
+}

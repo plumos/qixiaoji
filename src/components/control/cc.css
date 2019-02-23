@@ -1,0 +1,16 @@
+#father{
+  display: flex;
+  margin-left: 25px;
+}
+#dd,#dda,#td,#sp,#kc,#cg,#kh{
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+p{
+  cursor:pointer;
+  text-align: left;
+}
+p:hover{
+  color: #458eff;
+}
